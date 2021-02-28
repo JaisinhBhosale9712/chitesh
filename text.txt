@@ -19,12 +19,5 @@ m1
 m2
 g1
 m11
-<<<<<<< HEAD
-m5
-g5
-cherry
-pick
-=======
 g5
 cherry pick 
->>>>>>> 5b972f9... cheery picking
