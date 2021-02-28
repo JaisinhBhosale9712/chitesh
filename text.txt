@@ -8,12 +8,13 @@ pull
 added new line
 one more line
 second line removed
+i make my ow changes
 hey i am working
 i added a new feature
 wor man etc
 one morr
 second morr
-rebase 1
-rebase 2
-m1
-m2
+rebase on line
+rebase second line
+g1
+g2
