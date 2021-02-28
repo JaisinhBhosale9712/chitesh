@@ -1,10 +1,7 @@
 second
-<<<<<<< HEAD
 first
-=======
 first
 Hello moto hh
 really master master commit
 no conflict
 pull
->>>>>>> 489799d2b35dc5d0d93638fdc555c9dde704f355
