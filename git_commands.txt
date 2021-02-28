@@ -1,0 +1,5 @@
+view commit - git show "commit id"
+revert to commit - git revert "commit id"
+close merge - git merge abort
+make branch equall to master - git reset --hard master
+if require to pull before push and you want to push anyways - git push --force
