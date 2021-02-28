@@ -7,3 +7,4 @@ really master master commit
 no conflict
 pull
 added new line
+one more line
