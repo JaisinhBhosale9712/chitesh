@@ -17,3 +17,4 @@ second morr
 rebase on line
 rebase second line
 g1
+g2
