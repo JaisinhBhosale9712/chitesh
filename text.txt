@@ -8,4 +8,12 @@ pull
 added new line
 one more line
 second line removed
+<<<<<<< HEAD
 i make my ow changes
+=======
+hey i am working
+i added a new feature
+wor man etc
+one morr
+second morr
+>>>>>>> master
