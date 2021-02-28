@@ -4,3 +4,4 @@ close merge - git merge abort
 make branch equall to master - git reset --hard master
 if require to pull before push and you want to push anyways - git push --force
 git merge can be used as git pull but when everything is locally(pull only usefull when already pushed)
+git merge --squash "branch name" - squashhes all commits from brach to one commit and the merges
