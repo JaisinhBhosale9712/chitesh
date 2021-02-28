@@ -7,4 +7,4 @@ no conflict
 pull
 added new line
 one more line
-second line added
+second line removed
