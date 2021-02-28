@@ -16,5 +16,3 @@ one morr
 second morr
 rebase on line
 rebase second line
-rebase 1
-rebase 2
